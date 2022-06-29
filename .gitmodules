@@ -1,0 +1,9 @@
+[submodule "cs3217-ps1"]
+	path = cs3217-ps1
+	url = git@github.com:kfwong/cs3217-ps1.git
+[submodule "cs3217-ps2"]
+	path = cs3217-ps2
+	url = git@github.com:kfwong/cs3217-ps2.git
+[submodule "cs3217-ps3"]
+	path = cs3217-ps3
+	url = git@github.com:kfwong/cs3217-ps3.git
